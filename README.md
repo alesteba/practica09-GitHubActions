@@ -1,3 +1,2 @@
 # practica09-GitHubActions-
-
-![example event parameter](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?event=push)
+![example workflow](https://github.com/alesteba/practica09-GitHubActions/actions/workflows/ci-primer-wf.yml/badge.svg) 
